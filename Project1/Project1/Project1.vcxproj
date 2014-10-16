@@ -72,9 +72,6 @@
   <ItemGroup>
     <ClCompile Include="hello.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\..\Downloads\02_getting_an_image_on_the_screen\02_getting_an_image_on_the_screen\hello_world.bmp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
